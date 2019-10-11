@@ -1,0 +1,13 @@
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Google Drive\aplikasibuatanku\WinAppOracle\WindowsApplication1\obj\Debug\WindowsApplication1.FDatatable.resources
